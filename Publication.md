@@ -26,16 +26,16 @@ main_nav: true
 - **Zhang, B.***, and Cressie, N. (2019). Estimating spatial changes over time of Arctic sea ice using hidden 2X2 tables. *Journal of Time Series Analysis*, 40, 288-311.
 
 
-- Cressie, N., Burden, S., Shumack, C., Zammit-Mangion, A., and **Zhang, B.** (2017). Environmental Informatics, entry in StatsRef. Wiley, Chichester, UK.
+- Cressie, N., Burden, S., Shumack, C., Zammit-Mangion, A., and **Zhang, B.** (2017). Environmental Informatics, *entry in StatsRef. Wiley*, Chichester, UK.
 
 
 - **Zhang, B.***, Cressie, N., and Wunch, D. (2017). Statistical properties of atmospheric greenhouse gas measurements: Looking down from space and looking up from the ground. *Chemometrics and Intelligent Laboratory Systems*, 162, 214-222.
 
 
-- **Zhang, B.**, Konomi, B., Sang, H., Karagiannis, G., and Lin, G.  (2015). Full-scale multi-output Gaussian process emulator with nonseparable autocovariance functions. Journal of Computational Physics, 300, 623-642.
+- **Zhang, B.**, Konomi, B., Sang, H., Karagiannis, G., and Lin, G.  (2015). Full-scale multi-output Gaussian process emulator with nonseparable autocovariance functions. *Journal of Computational Physics*, 300, 623-642.
 
 
-- **Zhang, B.**, Sang, H. , and Huang, J. Z. (2015). Full-scale approximations of spatio-temporal covariance models for large datasets. Statistica Sinica, 25, 99-114.
+- **Zhang, B.**, Sang, H. , and Huang, J. Z. (2015). Full-scale approximations of spatio-temporal covariance models for large datasets. *Statistica Sinica*, 25, 99-114.
 
 
 
