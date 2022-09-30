@@ -20,7 +20,7 @@ email: bohai.nku@outlook.com
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/IMG_0440.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
