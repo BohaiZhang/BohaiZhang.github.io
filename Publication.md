@@ -8,7 +8,7 @@ main_nav: true
 - Cao, J., He, S., and **Zhang, B.\*** (alphabetical, 2022+). Spatial linear regression with covariate measurement errors: Inference and scalable computation in a functional modeling approach. Revised.
 
 
-- **Zhang, B.**\#, Li, F.\#, Sang, H., and Cressie, N. (2022). Inferring changes of Arctic sea ice through a spatio-temporal logistic autoregression fitted to remote-sensing data. Revised.
+- **Zhang, B.\***\#, Li, F.\#, Sang, H., and Cressie, N. (2022). Inferring changes of Arctic sea ice through a spatio-temporal logistic autoregression fitted to remote-sensing data. Revised.
 
 
 - **Zhang, B.\***, Sang, H., Luo, Z.T., and Huang, H. (2022). Bayesian clustering of spatial functional data with an application to the clustering of mobility behaviors in Houston during the COVID-19 pandemic. *The Annals of Applied Statistics*. To appear.
